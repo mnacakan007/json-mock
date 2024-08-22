@@ -1107,8 +1107,13 @@
         "link": "life/news/culture",
         "title": "Մշակույթ",
         "color": "#1567a9"
+      },
+      {
+        "id": "9",
+        "link": "authors",
+        "title": "authors",
+        "color": "#1567A9"
       }
-
     ],
     "generalList": [
       {
@@ -2155,8 +2160,13 @@
         "link": "medicine/news/diseases",
         "title": "Հիվանդություններ",
         "color": "#1567a9"
+      },
+      {
+        "id": "9",
+        "link": "authors",
+        "title": "authors",
+        "color": "#1567A9"
       }
-
     ],
     "generalList": [
       {
